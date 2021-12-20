@@ -22,11 +22,7 @@
 }
 
 :link {
-  text-decoration-style: dotted;
-}
-
-:visited {
-  text-decoration-line: line-through;
+  text-decoration: line-through dotted;
 }
 
 :focus {
